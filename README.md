@@ -93,18 +93,6 @@ Public site with a blog, interactive event calendar and sections for ministries 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rafaelrdgz&show_icons=true&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rafaelrdgz&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelrdgz&show_icons=true&theme=transparent&hide_border=true" alt="Rafael's GitHub Stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrdgz&layout=compact&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrdgz&layout=compact&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrdgz&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelrdgz/rafaelrdgz/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelrdgz/rafaelrdgz/output/github-contribution-grid-snake-light.svg" />
   <img src="https://raw.githubusercontent.com/rafaelrdgz/rafaelrdgz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
